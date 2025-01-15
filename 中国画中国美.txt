@@ -1,0 +1,34 @@
+%%\tempo: 4=90
+title=中国画中国美
+poet= 抄谱:ye
+composer= 赵真词曲
+arranger= 成老师配器
+
+1=C
+2/4
+4=60
+%WithStaff
+NoIndent
+chords=a2:m c2 g:m7 c  c2 a2:m f2 g2:m7 a2:m f2 d2:m g2:m7 c2 e2:m d2:m a2:m f2 c2 g2:m7 c1 c2 a2:m f2 g2:m7 a2:m f2 d2:m g2:m7 c2 e2:m d2:m g2:m7 f2 c2 g2:m7 c2 c2 c2 f2 d2 g2:m7 a2:m c2 d2 g2:m7 c2 f2 d2 g2:m7 a2:m c2 g2:m7 c1  a2:m c2 g2:m7 c1
+%旋律右手
+ q6 ^"右手高八度" s5 s6 q1' s1' s1' q5 q1' q5 q3 s2 s3 s5 s3 s2 s3 s6, s2 1 -  \break 
+q0 s3 s2 q3 q5 q2 s2 ( s1 ) 1 q6,. s3 s2 ( s3 ) q6, 5, - q0 s1 s6, q1 q2 q3 s6 ( s1' ) s6 ( s5 ) q3 q1 s6, ( s1 ) s5 ( s6 ) s4 ( s3 ) 2 - \break 
+q0 s3 s2 q3 q6 s5 ( s6 ) s3 ( s2 ) s3 ( q5. ) q2. s3 q5 q5, s1 ( d2 d1 6,. )  q0 s1 s6, q1 q2 q3 q6 5 q5, s5, ( s6, ) q3 q2 2 ( 1 ) ( 51'3' ) \arpeggio -  \break 
+q0 s3 s2 q3 q5 q2 s2 ( s1 ) 1 q6,. s3 s2 ( s3 ) q6, 5, - q0 s1 s6, q1 q2 q3 s6 ( s1' ) s6 ( s5 ) q3 q1 s6, ( s1 ) s5 ( s6 ) s4 ( s3 ) 2 -  \break 
+q0 s3 s2 q3 q6 s5 ( s6 ) s3 ( s2 ) q3 q5 q2. s3 s2 ( s3 ) q5, q1 ( 6,. )  q0 s1 s6, q1 q2 q3 s2 ( s3 ) s2 ( s3 ) q5 q2. s3 q3 q2 2 ( 1 ) ~ 1 - \break
+q3 ^"右手八度音" s5 s6 s1' ( s2' ) q7 6 - q6 s2' s3' s1' ( s2' ) q6 5 -  q6 ^"右手高八度" s5 s6 q1' s1' s1' q5 s6 ( s1' ) q5 q3 q5. s6 q1' s6 ( s5 ) 2' - \break 
+q3 ^"右手八度音" s5 s6 s1' ( s2' ) q7 6 - q6 s2' s3' s1' ( s2' ) q6 5 - q6 ^"右手高八度" s5 s6 q1' s1' s1' s5 ( s6 ) s3 ( s2 ) 3 q5 s6 s1' q7 q6 1' - ~ 1' - \break 
+q6 s5 s6 q1' s1' s1' s5 ( s6 ) s3 ( s2 ) 3 q5 ^"右手八度音" s6 s1' g[s2'] q3' q6 1'  - - - |
+
+H: \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 \skip1 山水流过丹青醉 谁对月举杯 \skip1 玉笔多情一幕 砂红四大家人美 \skip1  墨香描来江南雨 琴声在等谁 满纸云烟染峰秀 仙鹤画中飞 \skip1  粉彩蘸来一片暖 牡丹万花开 \skip1 羊毫勾来梅兰竹菊 君子心中爱 \skip1  梦中又画伞下情人 相亲和相爱 醒来再画春夏秋冬 家乡的等待 \skip1 画一幅中国画 \skip1 画一幅中国美 \skip1 画不尽中国的山山水水 看也能看醉 \skip1 画一幅中国画 \skip1 画一幅中国美 \skip1 画不尽浓浓的中国情 浓浓的中国味 \skip1  画不尽浓浓的中国情 浓浓的中国味
+
+%左手伴奏
+NextPart 316, \arpeggio - 315, \arpeggio - 5, 5,, s1, s5, s6, s5, 1 \break 
+1  q5 q3 6, q3 q1 4, q1 q6, 5, q5 q2  316, \arpeggio  - 14, s6 s5 q3 16,2, \arpeggio  - s5 s2 s1 s6, 5, \break 
+315, - 37,5, \arpeggio  - q2. s3 5, 316,. q316, q4, q1 4 q3, q1 3 2, q5, q5,, q1, s5, s6, q1 q2 3 - \break
+q1 s5 s6 q5 q3 q6, s3 s2 q3 q1 q4, s3 s2 q3 q1 q5, s1 s2 q5 q5, q6, q1 3 q0 q1' q6 q5 q2 q6, 2, s5,, s5, s6, s1 5 \break 
+315, - 37,5, \arpeggio  - q2. s3 5, q0 s3 s2 q1 q6, 4,1 - 1, 15, 5,2,5,, \arpeggio  - s1, s5, s6, s1 q2 q3 s5 s6 ^"右手" s1' s2' s6 s1' ^"右手" s2' s1' \break
+s1,, s5,, s1, s3, s5, s3, s1, s5,, s4,, s1, s4, s6, s1 s6, s4, s1, s2,, s6,, s2, s#4, s6, s#4, s2, s6,, s5,, s5, s6, s1 5 6,, q316, q316, 1,, q315, q315, 2,, q#426, q#426,  6[ s5,, _"长琶音" s2, s5, s7, s2 s5 ] 6[ s5,  s2 s5 s7 s2' s5' ] \break
+s1,, s5,, s1, s3, s5, s3, s1, s5,, s4,, s1, s4, s6, s1 s6, s4, s1, s2,, s6,, s2, s#4, s6, s#4, s2, s6,, s5,, s5, s6, s1 5 6,, q316, q316, 1,, 315,  5,,5, 5,,,5,, s1, s5, s6, s1 s2 s3 s5 s6 s1' s6 s5  s3 s2 s1 s6, s5, 316, - 315, - 5,,,5,,  47,5, \arpeggio 6[ s1,, _"长琶音四组" s5,, s1, s3, s5, s1 ] 6[ s1, s5, s1 s3 s5 s1' ] 6[ s1  s5 s1' s3' s5' s1'' ] 6[ s1' s5' s1'' s3'' s5'' s1''' ] |
+
+
